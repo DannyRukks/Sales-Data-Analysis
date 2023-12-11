@@ -63,3 +63,20 @@ Monthly Sales% Change = IF(
 ```
 These measures were then used to generate interactive visualizations, metrics and dashboard as shown below:
 
+![Sales Dashboard1](https://github.com/DannyRukks/Sales-Data-Analysis/assets/97890440/7d60e37f-b412-4c0f-8ad2-72d73e5ca720)
+
+# INSIGHTS
+Here are some of the basic insights from the data analysis
+- The total quantity ordered is 209079
+- There are 19 different product that were sold
+- Total of $34.49 million of sales were generated
+- The top five products with high sales generated are Macbook pro laptop, iphone, thinkpad laptop, google phone and 27in 4K gaming monitor
+- The top five products with the most quantity ordered are AAA batteries, AA batteries, USB-C Charging cable, lightning charging cable and wired headphones.
+- Cities with the highest sales are Sales are San Francisco, Los Angeles, New York City, Boston and Atlanta.
+- The month of December 2019 generated the highest sales revenue of about $4.613 million
+# RECOMMENDATIONS
+- Invest more on products with high sales
+- Create awareness and enlightenment to be made in cities where sales are low.
+- Strategize to boost sale of product with low sales
+- Boost productivity in months where sales are highly generated
+- Develop strategies to sustain sales in cities with high revenue
