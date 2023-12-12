@@ -80,3 +80,7 @@ Here are some of the basic insights from the data analysis
 - Strategize to boost sale of product with low sales
 - Boost productivity in months where sales are highly generated
 - Develop strategies to sustain sales in cities with high revenue
+# Conclusion
+Specific decisions and actions can now be taken with the aid of the provided recommendations and calculated KPI metrics in order to boost productivity and sales revenues. Click [here]( https://app.powerbi.com/groups/me/reports/d1889644-dc2b-41e1-b1a9-b75bd8ca15ff?ctid=96c3451c-0db8-4f19-88af-5cb06c0a43fe&pbi_source=linkShare) to access the dashoard for interactivity.
+
+# THANKS
