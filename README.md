@@ -7,13 +7,13 @@ This project involved performing data wrangling on a  historic sales dataset and
 - perform data cleaning of the dataset
 - Data Modelling
 - Analyze the dataset
-- Creating visuals and dashboard to uncover insights and trends that could informed business decisions.
+- Create visuals and dashboard to uncover insights and trends that could informed business decisions.
 - Provide recommendations
 # Tools used
 - Excel - Data Source and Inspection
 - Power BI - Creating Reports
 - Power Query - Data Cleaning and Data Analysis
-# Data Cleaning/preparation
+# Data Cleaning/Preparation
 The following tasks were performed in the data cleaning and preparation phase
 - Data loading and inspection
 - Handling missing and null values
@@ -65,7 +65,7 @@ These measures were then used to generate interactive visualizations, metrics an
 
 ![Sales Dashboard1](https://github.com/DannyRukks/Sales-Data-Analysis/assets/97890440/7d60e37f-b412-4c0f-8ad2-72d73e5ca720)
 
-# INSIGHTS
+# Insights
 Here are some of the basic insights from the data analysis
 - The total quantity ordered is 209079
 - There are 19 different product that were sold
@@ -74,7 +74,7 @@ Here are some of the basic insights from the data analysis
 - The top five products with the most quantity ordered are AAA batteries, AA batteries, USB-C Charging cable, lightning charging cable and wired headphones.
 - Cities with the highest sales are Sales are San Francisco, Los Angeles, New York City, Boston and Atlanta.
 - The month of December 2019 generated the highest sales revenue of about $4.613 million
-# RECOMMENDATIONS
+# Recommendations
 - Invest more on products with high sales
 - Create awareness and enlightenment to be made in cities where sales are low.
 - Strategize to boost sale of product with low sales
@@ -83,4 +83,4 @@ Here are some of the basic insights from the data analysis
 # Conclusion
 Specific decisions and actions can now be taken with the aid of the provided recommendations and calculated KPI metrics in order to boost productivity and sales revenues. Click [here]( https://app.powerbi.com/groups/me/reports/d1889644-dc2b-41e1-b1a9-b75bd8ca15ff?ctid=96c3451c-0db8-4f19-88af-5cb06c0a43fe&pbi_source=linkShare) to access the dashoard for interactivity.
 
-# THANKS
+# Thanks
